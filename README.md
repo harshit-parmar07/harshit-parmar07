@@ -35,16 +35,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## Featured Engineering Projects
-
-| Project | Description | Technologies | Links |
-|---|---|---|---|
-| **API Rate Limiter** | In-memory and distributed rate limiting system designed to optimize traffic shaping and protect backend services. | Java, Node.js, Redis | [Repo](https://github.com/harshit-parmar07/api-rate-limiter) |
-| **Issue Tracker** | Full-stack issue management system with structured database schema design and SSR. | Next.js, Prisma, MySQL | [Repo](https://github.com/harshit-parmar07/issue-tracker) |
-| **Surge Pricing Model** | Machine learning predictive model for dynamic pricing calculations. | Python, XGBoost | [Repo](https://github.com/harshit-parmar07/cab-fare-prediction) |
-| **Natours** | Full-stack booking application architecture with robust RESTful routing. | React, Node.js, MongoDB | [Repo](https://github.com/harshit-parmar07/natours) |
-| **Game-Hub** | Interactive video game discovery application focusing on strict type safety. | React, TypeScript | [Repo](https://github.com/harshit-parmar07/game-hub) |
-
 ## Competitive Programming
 
 *   **LeetCode Badge:** Knight
